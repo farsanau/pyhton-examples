@@ -1,6 +1,6 @@
 # pyhton-examples
 
-This includes examples programs in python
+These are example programs in python
 
 # Version 
 
