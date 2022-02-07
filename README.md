@@ -1,7 +1,7 @@
-# pyhton-examples
+# python-examples
 
 These are example programs in python
 
-# Version 
+# Version
 
 python 3.7
