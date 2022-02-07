@@ -4,4 +4,4 @@ These are example programs in python
 
 # Version 
 
-python 3
+python 3.7+
